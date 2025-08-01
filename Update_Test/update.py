@@ -4,7 +4,7 @@ import subprocess
 from datetime import datetime
 
 # ------------------ CONFIG ------------------ #
-GITHUB_TOKEN = "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"
+GITHUB_TOKEN = "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"
 REPO_OWNER = "SaikatTech"
 REPO_NAME = "kloudz_product_test"  # Your repository name
 BRANCH = "main"
